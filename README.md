@@ -7,14 +7,15 @@ This project provisions a basic AWS infrastructure using Terraform:
 - S3 bucket
 - Outputs public IP and bucket name
 
-## 🔧 Tools Used 
+## Tools Used 
 - Terraform 1.3+
 - AWS Provider
 - Ubuntu AMI
 
-## 🚀 Usage
+## Usage
 
 ```bash
 terraform init
 terraform plan
 terraform apply
+
